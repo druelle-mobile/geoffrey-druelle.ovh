@@ -7,11 +7,11 @@
     class="mdl-button mdl-js-button mdl-button--icon mdl-button--colored">
       <i class="mdi mdi-linkedin" aria-hidden="true"></i>
     </a>
-    <!-- <a href="https://github.com/geoffrey-druelle" target="_blank" id="link-twitter"
+    <a href="https://github.com/druelle-mobile" target="_blank" id="link-twitter"
     class="mdl-button mdl-js-button mdl-button--icon mdl-button--colored">
       <i class="mdi mdi-github-circle" aria-hidden="true"></i>
     </a>
-    <a href="" target="_blank" id="link-twitter"
+    <!-- <a href="" target="_blank" id="link-twitter"
     class="mdl-button mdl-js-button mdl-button--icon mdl-button--colored">
       <i class="mdi mdi-google-play" aria-hidden="true"></i>
     </a> -->
