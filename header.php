@@ -4,8 +4,8 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="Geoffrey Druelle - Développeur mobile, Tours, Lausanne, Lyon">
-    <meta name="keyword" content="Geoffrey, Druelle, Développeur, Développement, Mobile, Android, iOS, Smartphone, Java, C#, XML, Tours, France, Lausanne, Suisse, Lyon, CV">
+    <meta name="description" content="Geoffrey Druelle - Développeur mobile, Tours, Lausanne, Lyon, Nantes">
+    <meta name="keyword" content="Geoffrey, Druelle, Développeur, Développement, Mobile, Android, iOS, Smartphone, Java, C#, XML, Tours, France, Lausanne, Suisse, Lyon, Nantes, CV">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
     <link rel="shortcut icon" href="images/avatar.png">
     <title>Geoffrey Druelle</title>
