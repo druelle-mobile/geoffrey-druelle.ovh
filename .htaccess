@@ -1,3 +1,7 @@
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://geoffrey-druelle.ovh/$1 [R=301,L]
+
 Options -Indexes
 
 DirectoryIndex accueil.php
