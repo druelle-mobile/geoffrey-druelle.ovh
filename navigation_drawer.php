@@ -34,8 +34,8 @@
     <a class="mdl-navigation__link asso" href="experiences_associatives.php"><i class="mdl-color-text--white material-icons" role="presentation">people</i>Expériences Associatives</a>
 
     <div class="mdl-layout-spacer"></div>
-    <a class="mdl-navigation__link cv" href="res/CV_JAVA_Mobile_Geoffrey_Druelle.pdf" target="_blank"><i class="mdl-color-text--white material-icons" role="presentation">file_download</i><img class="flag" src="images/fr.svg" alt="flag france"></img>CV</a>
-    <a class="mdl-navigation__link cv" href="res/CV_Mobile_Geoffrey_Druelle.pdf" target="_blank"><i class="mdl-color-text--white material-icons" role="presentation">file_download</i><img class="flag" src="images/ch.svg" alt="flag schweiz"></img>CV</a>
+    <a class="mdl-navigation__link cv" href="res/CV-Mobile-Geoffrey_Druelle-FR.pdf" target="_blank"><i class="mdl-color-text--white material-icons" role="presentation">file_download</i><img class="flag" src="images/fr.svg" alt="flag france"></img>CV</a>
+    <a class="mdl-navigation__link cv" href="res/CV-Mobile-Geoffrey_Druelle-CH.pdf" target="_blank"><i class="mdl-color-text--white material-icons" role="presentation">file_download</i><img class="flag" src="images/ch.svg" alt="flag schweiz"></img>CV</a>
     <a class="mdl-navigation__link mentions" href="mentions_legales.php">Mentions légales</a>
   </nav>
 </div>
