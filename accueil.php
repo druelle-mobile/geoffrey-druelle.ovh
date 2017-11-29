@@ -33,7 +33,8 @@
             </div>
             <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell--6-col mdl-cell--4-col-tablet mdl-cell--12-col-phone">
               <div class="mdl-card__supporting-text">
-                <div class="coords"><small class="text-muted"><i class="material-icons">smartphone</i><a href="tel:+33677217860"> +336 77 21 78 60</a></small>
+                <div class="coords"><small class="text-muted"><i class="material-icons">smartphone</i><a href="tel:+33677217860"><img class="flag" src="images/fr.svg" alt="flag france"></img> +33 6 77 21 78 60</a></small>
+                <div class="coords"><small class="text-muted"><i class="material-icons">smartphone</i><a href="tel:+41787434462"><img class="flag" src="images/ch.svg" alt="flag schweiz"></img> +41 7 87 43 44 62</a></small>
                 <small class="text-muted"><i class="material-icons">email</i><a href="mailto:druelle.geoffrey@gmail.com">druelle.geoffrey@gmail.com</a></small>
                 <small class="text-muted"><i class="material-icons">location_on</i><img class="flag" src="images/fr.svg" alt="flag france"></img> 25 rue du Colombeau,<br> 37390 La Membrolle Sur Choisille</small>
                 <small class="text-muted"><i class="material-icons">location_on</i><img class="flag" src="images/ch.svg" alt="flag schweiz"></img> Chez Coralie Alarza,<br> Chemin du Parc 3,<br> 1030 Bussigny</small>
