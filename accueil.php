@@ -16,10 +16,11 @@
             <div class="mdl-card__supporting-text home">
               <p>Bonjour Visiteur !</p>
               <hr>
-              <p>Venant de terminer la formation de Développeur Logiciel au CEFIM (Tours, France), je recherche un emploi en tant que Développeur Mobile Junior.
+              <p>Après une ré-orientation de l'Ecologie vers l'Informatique, et une première spécialisation en tant qu'Administrateur Systèmes et Réseaux, j'ai effectué une formation complémentaire en tant que Développeur Web & Logiciel au CEFIM (Tours, France).
+              <br>Je recherche maintenant un emploi en tant que Développeur Mobile Junior.
               <br>Si vous recherchez un mouton à 5 pattes, ne vous attardez pas ici. ;)
               <br>En revanche, si vous recherchez quelqu'un de motivé et de curieux, restez, et n'hésitez pas à me contacter !</p>
-              <p>Mes recherches s'orientent vers les villes (et agglomérations) suivantes : Tours, Nantes, Lyon, et Lausanne (Suisse).</p>
+              <p>Nouvellement arrivé en Loire-Atlantique, plus spécialement à Nantes, mes recherches s'articulent exclusivement sur l'agglomération Nantaise.</p>
               <p>Je reste à votre entière disposition, par mail, téléphone, en face à face (autour d'un café, thé, d'une bière ou d'une tisane, tout dépend de l'humeur et de l'heure de la journée/soirée :)).</p>
               <p>Enfin, permettez-moi de vous souhaiter une excellente journée, et une agréable visite !</p>
             </div>
@@ -33,11 +34,12 @@
             </div>
             <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell--6-col mdl-cell--4-col-tablet mdl-cell--12-col-phone">
               <div class="mdl-card__supporting-text">
-                <div class="coords"><small class="text-muted"><i class="material-icons">smartphone</i><a href="tel:+33677217860"><img class="flag" src="images/fr.svg" alt="flag france"></img> +33 6 77 21 78 60</a></small>
-                <div class="coords"><small class="text-muted"><i class="material-icons">smartphone</i><a href="tel:+41787434462"><img class="flag" src="images/ch.svg" alt="flag schweiz"></img> +41 7 87 43 44 62</a></small>
+                <div class="coords"><small class="text-muted"><i class="material-icons">smartphone</i><a href="tel:+33677217860"> +33 6 77 21 78 60</a></small>
+                <!-- <div class="coords"><small class="text-muted"><i class="material-icons">smartphone</i><a href="tel:+33677217860"><img class="flag" src="images/fr.svg" alt="flag france"></img> +33 6 77 21 78 60</a></small> -->
+                <!-- <div class="coords"><small class="text-muted"><i class="material-icons">smartphone</i><a href="tel:+41787434462"><img class="flag" src="images/ch.svg" alt="flag schweiz"></img> +41 7 87 43 44 62</a></small> -->
                 <small class="text-muted"><i class="material-icons">email</i><a href="mailto:druelle.geoffrey@gmail.com">druelle.geoffrey@gmail.com</a></small>
-                <small class="text-muted"><i class="material-icons">location_on</i><img class="flag" src="images/fr.svg" alt="flag france"></img> 25 rue du Colombeau,<br> 37390 La Membrolle Sur Choisille</small>
-                <small class="text-muted"><i class="material-icons">location_on</i><img class="flag" src="images/ch.svg" alt="flag schweiz"></img> Chez Coralie Alarza,<br> Chemin du Parc 3,<br> 1030 Bussigny</small>
+                <small class="text-muted"><i class="material-icons">location_on</i> 3 avenue de Salonique,<br> Apt 6, 1er étage,<br> 44300 Nantes</small>
+                <!-- <small class="text-muted"><i class="material-icons">location_on</i><img class="flag" src="images/ch.svg" alt="flag schweiz"></img> Chez Coralie Alarza,<br> Chemin du Parc 3,<br> 1030 Bussigny</small> -->
                 <small class="text-muted"><i class="material-icons">directions_car</i> Permis B - Véhicule</small></div>
               </div>
             </div>
