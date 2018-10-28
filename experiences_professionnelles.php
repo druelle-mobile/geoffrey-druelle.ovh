@@ -18,12 +18,60 @@
                   <li data-target="#myCarousel" data-slide-to="2"></li>
                   <li data-target="#myCarousel" data-slide-to="3"></li>
                   <li data-target="#myCarousel" data-slide-to="4"></li>
+                  <li data-target="#myCarousel" data-slide-to="5"></li>
               </ol>
               <!--/.Indicators-->
               <!--Slides-->
               <div class="carousel-inner" role="listbox">
                   <!--First slide-->
                   <div class="item active">
+                      <div class="carousel-caption d-none d-md-block">
+                        <section class="entete">
+                          <div class="btn-group">
+                              <a href="https://www.timcod.fr/" target="_blank" id="link"
+                              class="mdl-button mdl-js-button mdl-button--icon mdl-button--colored">
+                                  <i class="material-icons">public</i>
+                              </a>
+                          </div>
+                          <h3>Timcod</h3>
+                          <div class="infos">
+                              <small class="text-muted"><i class="material-icons">schedule</i> Juillet 2018 - Aujourd'hui</small>
+                              <small class="text-muted"><i class="material-icons">place</i> Treillières, France</small>
+                          </div>
+                        </section>
+                        <h2 class="mdl-card__title-text">Développeur Android / Support N2</h2>
+                        <p>Assurer le Support N2 : gestion des tickets d'incident (logiciel, matériel, etc). Développement de divers projets Android.</p>
+                        <h4>Réalisations :</h4>
+                        <ul>
+                          <li>Développement d'applications Android<ul>
+                            <li>Android Architecture Components :<ul>
+                              <li>Room</li>
+                              <li>LiveData</li>
+                              <li>Databinding</li>
+                              <li>ViewModel</li>
+                              <li>Lifecycle</li>
+                              <li>Navigation</li>
+                            </ul></li>
+                            <li>Material Design</li>
+                            <li>EMDK Zebra</li>
+                            </ul></li>
+                          <li>Gestion des tickets d'incident escaladés au Support N2 :<ul>
+                            <li>Résolution de bugs sur les solutions logicielles Timcod : Android, Windows CE/Mobile, PHP</li>
+                            <li>Logiciels d'étiquetage et d'impression : Bartender, Nicelabel</li>
+                            <li>Paramétrage et dépannage de terminaux mobiles professionnels (Zebra, Honeywell, Datalogic...)</li>
+                            <li>Paramétrage et dépannage d'imprimantes professionnelles (Zebra, Sato...)</li>
+                            <li>Paramétrage et dépannage de hardware réseau (Extreme Networks, Cisco...)</li>
+                          </ul></li>
+                          <li>SOTI - MobiControl (et autres MDM)</li>
+                          <li>Android Enterprise</li>
+                          <li>Kiosque</li>
+                          <li>Veille régulière sur les nouvelles technologies utilisées dans le monde de la mobilité</li>
+                        </ul>
+                      </div>
+                  </div>
+                  <!--/First slide-->
+                  <!--Second slide-->
+                  <div class="item">
                       <div class="carousel-caption d-none d-md-block">
                         <section class="entete">
                           <div class="btn-group">
@@ -64,8 +112,8 @@
                         </ul>
                       </div>
                   </div>
-                  <!--/First slide-->
-                  <!--Second slide-->
+                  <!--/Second slide-->
+                  <!--Third slide-->
                   <div class="item">
                       <div class="carousel-caption d-none d-md-block">
                         <section class="entete">
@@ -97,8 +145,8 @@
                         </ul>
                       </div>
                   </div>
-                  <!--/Second slide-->
-                  <!--Third slide-->
+                  <!--/Third slide-->
+                  <!--Fourth slide-->
                   <div class="item">
                       <div class="carousel-caption d-none d-md-block">
                         <section class="entete">
@@ -128,8 +176,8 @@
                         </ul>
                       </div>
                   </div>
-                  <!--/Third slide-->
-                  <!--Fourth slide-->
+                  <!--/Fourth slide-->
+                  <!--Fifth slide-->
                   <div class="item">
                       <div class="carousel-caption d-none d-md-block">
                         <section class="entete">
@@ -161,8 +209,8 @@
                         </ul>
                       </div>
                   </div>
-                  <!--/Fourth slide-->
-                  <!--Fifth slide-->
+                  <!--/Fifth slide-->
+                  <!--Sixth slide-->
                   <div class="item">
                       <div class="carousel-caption d-none d-md-block">
                         <section class="entete">
@@ -193,7 +241,7 @@
                         </ul>
                       </div>
                   </div>
-                  <!--/Fifth slide-->
+                  <!--/Sixth slide-->
               </div>
               <!--/.Slides-->
               <!--Controls-->

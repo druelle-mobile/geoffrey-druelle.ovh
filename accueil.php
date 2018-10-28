@@ -16,11 +16,11 @@
             <div class="mdl-card__supporting-text home">
               <p>Bonjour Visiteur !</p>
               <hr>
-              <p>Après une ré-orientation de l'Ecologie vers l'Informatique, et une première spécialisation en tant qu'Administrateur Systèmes et Réseaux, j'ai effectué une formation complémentaire en tant que Développeur Web & Logiciel au CEFIM (Tours, France).
-              <br>Je recherche maintenant un emploi en tant que Développeur Mobile Junior.
-              <br>Si vous recherchez un mouton à 5 pattes, ne vous attardez pas ici. ;)
+              <p>Après une ré-orientation de l'Ecologie vers l'Informatique, et une première spécialisation dans l'Administration Systèmes et Réseaux, j'ai effectué une formation complémentaire en tant que Développeur Web & Logiciel au CEFIM (Tours, France).</p>
+              <p>Je suis actuellement en poste chez Timcod (Treillières, 44) en tant que Développeur (Android notamment) au Support N2.</p>
+              <p>Si vous recherchez un mouton à 5 pattes, ne vous attardez pas ici. ;)
               <br>En revanche, si vous recherchez quelqu'un de motivé et de curieux, restez, et n'hésitez pas à me contacter !</p>
-              <p>Nouvellement arrivé en Loire-Atlantique, plus spécialement à Nantes, mes recherches s'articulent exclusivement sur l'agglomération Nantaise.</p>
+              <p>Arrivé sur Nantes il y a moins d'un an, je découvre peu à peu l'écosystème numérique nantais, n'hésitez pas à me partager des informations.</p>
               <p>Je reste à votre entière disposition, par mail, téléphone, en face à face (autour d'un café, thé, d'une bière ou d'une tisane, tout dépend de l'humeur et de l'heure de la journée/soirée :)).</p>
               <p>Enfin, permettez-moi de vous souhaiter une excellente journée, et une agréable visite !</p>
             </div>
