@@ -11,16 +11,15 @@
         <div class="mdl-grid demo-content">
           <div class="demo-card-wide mdl-card mdl-shadow--2dp mdl-cell--12-col">
             <div class="mdl-card__title">
-              <h2 class="mdl-card__title-text">Développeur Mobile Junior</h2>
+              <h2 class="mdl-card__title-text">Développeur Android natif</h2>
             </div>
             <div class="mdl-card__supporting-text home">
               <p>Bonjour Visiteur !</p>
               <hr>
               <p>Après une ré-orientation de l'Ecologie vers l'Informatique, et une première spécialisation dans l'Administration Systèmes et Réseaux, j'ai effectué une formation complémentaire en tant que Développeur Web & Logiciel au CEFIM (Tours, France).</p>
-              <p>Je suis actuellement en poste chez Timcod (Treillières, 44) en tant que Développeur (Android notamment) au Support N2.</p>
+              <p>Je suis actuellement en poste chez Timcod (Treillières, 44) en tant que Développeur Android au Support N2.</p>
               <p>Si vous recherchez un mouton à 5 pattes, ne vous attardez pas ici. ;)
               <br>En revanche, si vous recherchez quelqu'un de motivé et de curieux, restez, et n'hésitez pas à me contacter !</p>
-              <p>Arrivé sur Nantes il y a moins d'un an, je découvre peu à peu l'écosystème numérique nantais, n'hésitez pas à me partager des informations.</p>
               <p>Je reste à votre entière disposition, par mail, téléphone, en face à face (autour d'un café, thé, d'une bière ou d'une tisane, tout dépend de l'humeur et de l'heure de la journée/soirée :)).</p>
               <p>Enfin, permettez-moi de vous souhaiter une excellente journée, et une agréable visite !</p>
             </div>
@@ -34,12 +33,9 @@
             </div>
             <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell--6-col mdl-cell--4-col-tablet mdl-cell--12-col-phone">
               <div class="mdl-card__supporting-text">
-                <div class="coords"><small class="text-muted"><i class="material-icons">smartphone</i><a href="tel:+33677217860"> +33 6 77 21 78 60</a></small>
-                <!-- <div class="coords"><small class="text-muted"><i class="material-icons">smartphone</i><a href="tel:+33677217860"><img class="flag" src="images/fr.svg" alt="flag france"></img> +33 6 77 21 78 60</a></small> -->
-                <!-- <div class="coords"><small class="text-muted"><i class="material-icons">smartphone</i><a href="tel:+41787434462"><img class="flag" src="images/ch.svg" alt="flag schweiz"></img> +41 7 87 43 44 62</a></small> -->
+                <div class="coords"><small class="text-muted"><i class="material-icons">smartphone</i><a href="tel:+33768694753"> +33 7 68 69 47 53</a></small>
                 <small class="text-muted"><i class="material-icons">email</i><a href="mailto:druelle.geoffrey@gmail.com">druelle.geoffrey@gmail.com</a></small>
-                <small class="text-muted"><i class="material-icons">location_on</i> 3 avenue de Salonique,<br> Apt 6, 1er étage,<br> 44300 Nantes</small>
-                <!-- <small class="text-muted"><i class="material-icons">location_on</i><img class="flag" src="images/ch.svg" alt="flag schweiz"></img> Chez Coralie Alarza,<br> Chemin du Parc 3,<br> 1030 Bussigny</small> -->
+                <small class="text-muted"><i class="material-icons">location_on</i> 44300 Nantes</small>
                 <small class="text-muted"><i class="material-icons">directions_car</i> Permis B - Véhicule</small></div>
               </div>
             </div>

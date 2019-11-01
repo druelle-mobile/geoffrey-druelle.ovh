@@ -19,7 +19,7 @@
 
               <p style="text-align:justify">Statut du propriétaire : <strong>particulier</strong><br />
               Le Propriétaire est : <strong>Geoffrey Druelle</strong><br />
-              Adresse postale du propriétaire : <strong>25 rue du Colombeau 37390, LA MEMBROLLE SUR CHOISILLE</strong><br />
+              Adresse postale du propriétaire : <strong>3 avenue de Salonique, 44300 NANTES</strong><br />
                <br />
               Le Créateur du site est : <strong>Geoffrey Druelle</strong><br />
               Le Responsable de la  publication est : <strong>Geoffrey Druelle</strong><br />
