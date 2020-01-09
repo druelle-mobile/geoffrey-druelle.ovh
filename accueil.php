@@ -35,7 +35,7 @@
               <div class="mdl-card__supporting-text">
                 <div class="coords"><small class="text-muted"><i class="material-icons">smartphone</i><a href="tel:+33768694753"> +33 7 68 69 47 53</a></small>
                 <small class="text-muted"><i class="material-icons">email</i><a href="mailto:geoffrey@druelle.ovh">geoffrey@druelle.ovh</a></small>
-                <small class="text-muted"><i class="material-icons">location_on</i> 44300 Nantes</small>
+                <small class="text-muted"><i class="material-icons">location_on</i> 75009 Paris</small>
                 <small class="text-muted"><i class="material-icons">directions_car</i> Permis B - Véhicule</small></div>
               </div>
             </div>
