@@ -35,6 +35,7 @@
 
     <div class="mdl-layout-spacer"></div>
     <a class="mdl-navigation__link cv" href="res/CV-G_Druelle.pdf" target="_blank"><i class="mdl-color-text--white material-icons" role="presentation">file_download</i>CV</a>
+    <a class="mdl-navigation__link cv" href="res/CV-Détaillé-G_Druelle.pdf" target="_blank"><i class="mdl-color-text--white material-icons" role="presentation">file_download</i>CV détaillé</a>
     <a class="mdl-navigation__link mentions" href="mentions_legales.php">Mentions légales</a>
   </nav>
 </div>
