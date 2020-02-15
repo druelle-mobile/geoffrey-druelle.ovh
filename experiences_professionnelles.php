@@ -19,6 +19,7 @@
                   <li data-target="#myCarousel" data-slide-to="3"></li>
                   <li data-target="#myCarousel" data-slide-to="4"></li>
                   <li data-target="#myCarousel" data-slide-to="5"></li>
+                  <li data-target="#myCarousel" data-slide-to="6"></li>
               </ol>
               <!--/.Indicators-->
               <!--Slides-->
@@ -35,7 +36,71 @@
                           </div>
                           <h3>Timcod</h3>
                           <div class="infos">
-                              <small class="text-muted"><i class="material-icons">schedule</i> Juillet 2018 - Aujourd'hui</small>
+                              <small class="text-muted"><i class="material-icons">schedule</i> Janvier 2020 - Aujourd'hui</small>
+                              <small class="text-muted"><i class="material-icons">place</i> Treillières, France</small>
+                          </div>
+                        </section>
+                        <h2 class="mdl-card__title-text">Développeur Android</h2>
+                        <p>Rattaché à l'équipe Développement Logiciel de Timcod. Participer aux développements Android : "from scratch", évolutions logicielles, support logiciel N3.</p>
+                        <h4>Réalisations :</h4>
+                        <ul>
+                          <li>Développement d'applications Android<ul>
+                            <li>Kotlin, Java</li>
+                            <li>Material Design</li>
+                            <li>EMDK Zebra</li>
+                            <li>Librairies :<ul>
+                              <li>Android Architecture Components :<ul>
+                                <li>Room</li>
+                                <li>LiveData</li>
+                                <li>Databinding</li>
+                                <li>ViewModel</li>
+                                <li>Lifecycle</li>
+                                <li>Navigation</li>
+                                <li>Paging</li>
+                              </ul></li>
+                              <li>Retrofit2, OkHttp3, notions sur Fuel</li>
+                              <li>Koin, notions sur Dagger2</li>
+                              <li>notions sur RxJava, RxAndroid, RxKotlin</li>
+                              <li>Coroutines</li>
+                              <li>Splitties</li>
+                              <li>Picasso</li>
+                              <li>Timber</li>
+                              <li>Stetho</li>
+                              <li>SonarQube</li>
+                            </ul></li>
+                            <li>Architectures :<ul>
+                              <li>MVVM</li>
+                              <li>MVC</li>
+                              <li>notions sur MVP</li>
+                              <li>notions sur Clean Architecture</li>
+                            </ul></li>
+                            <li>Gestion de projets</li>
+                          </ul></li>
+                          <li>Gestion des tickets d'incident escaladés au Support Logiciel N3 :<ul>
+                            <li>Résolution de bugs sur les solutions logicielles Timcod : Android</li>
+                            <li>Paramétrage et dépannage de terminaux mobiles professionnels (Zebra, Honeywell, Datalogic...)</li>
+                          </ul></li>
+                          <li>SOTI - MobiControl (et autres MDM)</li>
+                          <li>Android Enterprise</li>
+                          <li>Kiosque</li>
+                          <li>Veille régulière sur les nouvelles technologies utilisées dans le monde de la mobilité</li>
+                        </ul>
+                      </div>
+                  </div>
+                  <!--/First slide-->
+                  <!--Second slide-->
+                  <div class="item">
+                      <div class="carousel-caption d-none d-md-block">
+                        <section class="entete">
+                          <div class="btn-group">
+                              <a href="https://www.timcod.fr/" target="_blank" id="link"
+                              class="mdl-button mdl-js-button mdl-button--icon mdl-button--colored">
+                                  <i class="material-icons">public</i>
+                              </a>
+                          </div>
+                          <h3>Timcod</h3>
+                          <div class="infos">
+                              <small class="text-muted"><i class="material-icons">schedule</i> Juillet 2018 - Décembre 2019</small>
                               <small class="text-muted"><i class="material-icons">place</i> Treillières, France</small>
                           </div>
                         </section>
@@ -69,8 +134,8 @@
                         </ul>
                       </div>
                   </div>
-                  <!--/First slide-->
-                  <!--Second slide-->
+                  <!--/Second slide-->
+                  <!--Third slide-->
                   <div class="item">
                       <div class="carousel-caption d-none d-md-block">
                         <section class="entete">
@@ -112,8 +177,8 @@
                         </ul>
                       </div>
                   </div>
-                  <!--/Second slide-->
-                  <!--Third slide-->
+                  <!--/Third slide-->
+                  <!--Fourth slide-->
                   <div class="item">
                       <div class="carousel-caption d-none d-md-block">
                         <section class="entete">
@@ -145,8 +210,8 @@
                         </ul>
                       </div>
                   </div>
-                  <!--/Third slide-->
-                  <!--Fourth slide-->
+                  <!--/Fourth slide-->
+                  <!--Fifth slide-->
                   <div class="item">
                       <div class="carousel-caption d-none d-md-block">
                         <section class="entete">
@@ -176,8 +241,8 @@
                         </ul>
                       </div>
                   </div>
-                  <!--/Fourth slide-->
-                  <!--Fifth slide-->
+                  <!--/Fifth slide-->
+                  <!--Sixth slide-->
                   <div class="item">
                       <div class="carousel-caption d-none d-md-block">
                         <section class="entete">
@@ -209,8 +274,8 @@
                         </ul>
                       </div>
                   </div>
-                  <!--/Fifth slide-->
-                  <!--Sixth slide-->
+                  <!--/Sixth slide-->
+                  <!--Seventh slide-->
                   <div class="item">
                       <div class="carousel-caption d-none d-md-block">
                         <section class="entete">
@@ -241,7 +306,7 @@
                         </ul>
                       </div>
                   </div>
-                  <!--/Sixth slide-->
+                  <!--/Seventh slide-->
               </div>
               <!--/.Slides-->
               <!--Controls-->
